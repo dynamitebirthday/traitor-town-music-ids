@@ -8,47 +8,47 @@
 -------------------------------------------------------------------------
 
 67thway
-	[Metal Door Close] - s/917111517
-  [Car] - s/901285424
-  [Car Horn] - s/232030689
-  [default_move] - s/927222098
+  	[Metal Door Close] - s/917111517
+ 	[Car] - s/901285424
+ 	[Car Horn] - s/232030689
+  	[default_move] - s/927222098
   
 -------------------------------------------------------------------------
 
 Anubis
 	[Sea Wind] - s/3971699540
-  [eagle.mp3] - s/491270608
-  [Metal Snap] - s/9116547480
-  [Rope Snap] - s/7634660978
-  [Rope Stretch] - s/9118719829
-  [peeing in a toilet] - s/6723675399
+  	[eagle.mp3] - s/491270608
+  	[Metal Snap] - s/9116547480
+  	[Rope Snap] - s/7634660978
+ 	[Rope Stretch] - s/9118719829
+ 	[peeing in a toilet] - s/6723675399
 
 -------------------------------------------------------------------------
 
 Archipelago
 	[River SFX] - s/9063955784
-  [Cave] - s/9064174641
-  [Birds Chirping] - s/9064075063
-  [Fireplace Crackle] - s/9063857988
+  	[Cave] - s/9064174641
+  	[Birds Chirping] - s/9064075063
+  	[Fireplace Crackle] - s/9063857988
 
 -------------------------------------------------------------------------
 
 Asylum
 	[Door Move] - s/157167203
-  [Door Move 2] - s/157167203
-  [Door Locked] - s/134969396
-  [Shatter] - s/1263183031
-  [Alarm] - s/7524118944
-  [Bell Ding] - s/7149373060
-  [Tick] - s/151715959
-  [Drawer Open] - s/1910795334
-  [Spin] - s/9120297632
-  [Knocked Over] - s/9114061873
-  [Outdoor Rain] - s/9064263922
-  [Indoor Rain] - s/4700698740
-  [Courtyard Rain] - s/9112854440
-  [Light Ambience] - s/405691050
-  [Cave] - s/3173566193
+  	[Door Move 2] - s/157167203
+  	[Door Locked] - s/134969396
+  	[Shatter] - s/1263183031
+	[Alarm] - s/7524118944
+	[Bell Ding] - s/7149373060
+	[Tick] - s/151715959
+	[Drawer Open] - s/1910795334
+	[Spin] - s/9120297632
+	[Knocked Over] - s/9114061873
+	[Outdoor Rain] - s/9064263922
+	[Indoor Rain] - s/4700698740
+	[Courtyard Rain] - s/9112854440
+	[Light Ambience] - s/405691050
+	[Cave] - s/3173566193
 	
 -------------------------------------------------------------------------
 
@@ -69,23 +69,23 @@ Crossisle PD
 
 Detective HQ
 	[Rain] - s/9064167702
-  [Keypad Tone] - s/146750669
-  [Bunker Open 1] - s/7309105153
-  [Bunker Open 2] - s/4416840411
-  [Bunker Open 3] - s/4416839551
-  [Static] - s/9063898142
-  [Fire Crackling] - s/9064079228
+  	[Keypad Tone] - s/146750669
+  	[Bunker Open 1] - s/7309105153
+  	[Bunker Open 2] - s/4416840411
+  	[Bunker Open 3] - s/4416839551
+  	[Static] - s/9063898142
+  	[Fire Crackling] - s/9064079228
 
 -------------------------------------------------------------------------
 
 Diabeetus
-  [Ghost 1] - s/94247611
+  	[Ghost 1] - s/94247611
 	[Ghost 2] - s/94247729
-  [Ghost 3] - s/94247848
-  [Rain] - s/9064167702
-  [Bell] - s/9064004690
-  [Cannon] - s/33677366
-  [oh my god] - s/6734147118
+  	[Ghost 3] - s/94247848
+  	[Rain] - s/9064167702
+  	[Bell] - s/9064004690
+  	[Cannon] - s/33677366
+  	[oh my god] - s/6734147118
 
 -------------------------------------------------------------------------
 
@@ -101,60 +101,60 @@ Fabrik
 
 Hafen
 	[Door Open] - s/6808789242
-  [Door Close] - s/6808789403
-  [Door Open 2] - s/6808783952
-  [Door Close 2] - s/6808784209
-  [Teleport] - s/2048547765
-  [Nether Portal Teleport] - s/9064018891
-  [Portal] - s/9063895142
-  [Lever] - s/6808744791
-  [Minecart] - s/6807457024
-  [Explode] - s/310730183
+  	[Door Close] - s/6808789403
+  	[Door Open 2] - s/6808783952
+  	[Door Close 2] - s/6808784209
+  	[Teleport] - s/2048547765
+  	[Nether Portal Teleport] - s/9064018891
+  	[Portal] - s/9063895142
+  	[Lever] - s/6808744791
+  	[Minecart] - s/6807457024
+  	[Explode] - s/310730183
  
 -------------------------------------------------------------------------
 
 Harappa
 	[Stone Door] - s/9064058258
-  [mus_churchbell] - s/1040503231
+  	[mus_churchbell] - s/1040503231
  
 -------------------------------------------------------------------------
 
 Hellscape
 	[Turret Rotate] - s/1248184540
-  [Door Open] - s/3165576478
-  [Door Shut] - s/177740241
-  [Fire Noise] - s/5232307512
-  [Lava] - s/9063916817
-  [Whispers] - s/9064070682
-  [Light Buzzing] - s/9063872980
+  	[Door Open] - s/3165576478
+  	[Door Shut] - s/177740241
+ 	[Fire Noise] - s/5232307512
+  	[Lava] - s/9063916817
+  	[Whispers] - s/9064070682
+  	[Light Buzzing] - s/9063872980
  
 -------------------------------------------------------------------------
 
 Jailbreak
 	[Shock Sound] - s/186130717
-  [Cheering Impact] - s/9063839323
-  [Power Off] - s/2313083998
-  [Alarm] - s/9064123249
-  [Alert] - s/9064159438
-  [Water Drip] - s/9064012425
+  	[Cheering Impact] - s/9063839323
+  	[Power Off] - s/2313083998
+  	[Alarm] - s/9064123249
+  	[Alert] - s/9064159438
+  	[Water Drip] - s/9064012425
   
 -------------------------------------------------------------------------
 
 Lost Temple
 	[button_01] - s/14607765077
-  [Lever] - s/7639377355
-  [wall_move_loop] - s/14607764267
-  [grate_fall] - s/14607764819
-  [Fire] - s/150367086
-  [Spike Death] - s/14607763490
-  [Generator Humming] - s/9058608778
-  [ritual_complete] - s/14607764653
-  [tension_01] - s/14605107804
-  [tension_02] - s/14605135411
-  [tension_03] - s/14607763405
-  [tomb_ambience] - s/14607764083
-  [slide_loop] - s/14607763574
-  [dart] - s/14607764887
+  	[Lever] - s/7639377355
+  	[wall_move_loop] - s/14607764267
+  	[grate_fall] - s/14607764819
+  	[Fire] - s/150367086
+  	[Spike Death] - s/14607763490
+  	[Generator Humming] - s/9058608778
+  	[ritual_complete] - s/14607764653
+  	[tension_01] - s/14605107804
+  	[tension_02] - s/14605135411
+  	[tension_03] - s/14607763405
+  	[tomb_ambience] - s/14607764083
+  	[slide_loop] - s/14607763574
+  	[dart] - s/14607764887
  
 -------------------------------------------------------------------------
 
@@ -190,38 +190,38 @@ Santa Fe
 
 Skeld
 	[Keypad Tone] - s/146750669
-  [Task Complete] - s/6146406842
-  [Emergency Meeting] - s/5676457861
-  [Cassette Insert] - s/830440268
-  [Door Open] - s/5830755271
-  [Door Close] - s/5830754263
-  [Flip Switch] - s/177635558
-  [Shatter] - s/2978605361
-  [Ambience] - s/9315862466
-  [Vent Exit] - s/5232184571
+  	[Task Complete] - s/6146406842
+  	[Emergency Meeting] - s/5676457861
+  	[Cassette Insert] - s/830440268
+  	[Door Open] - s/5830755271
+  	[Door Close] - s/5830754263
+  	[Flip Switch] - s/177635558
+  	[Shatter] - s/2978605361
+  	[Ambience] - s/9315862466
+  	[Vent Exit] - s/5232184571
  
 -------------------------------------------------------------------------
 
 Snowfall Complex
 	[Tank Fire] - s/300537409
-  [Door Move] - s/927222098
-  [Wind Ambience] - s/9064138990
+  	[Door Move] - s/927222098
+  	[Wind Ambience] - s/9064138990
  
 -------------------------------------------------------------------------
 
 Station 27
 	[Train] - s/9063867869
-  [Light Buzzing] - s/9064135941
+  	[Light Buzzing] - s/9064135941
  
 -------------------------------------------------------------------------
 
 Terminal
 	[Jet Spray] - s/319809767
-  [Metal Detector] - s/9063903220
-  [Elevator Open] - s/845080280
-  [Elevator Close] - s/845784949
-  [Engine] - s/529366737
-  [Power Outage] - s/3475534419
+  	[Metal Detector] - s/9063903220
+  	[Elevator Open] - s/845080280
+  	[Elevator Close] - s/845784949
+  	[Engine] - s/529366737
+  	[Power Outage] - s/3475534419
 
 -------------------------------------------------------------------------
 
@@ -231,32 +231,88 @@ Vista Overpass
 -------------------------------------------------------------------------
 
 Water Hazard
-  [Rain] - s/2361576283
-  [Static] - s/9063898142
-  [Fallout Radio Static] - s/251407575
-  [Rumble Ambient] - s/4532838042
-  [Sewers Ambient] - s/1150086630
-  [Phone Vibrate] - s/538449705
-  [Creepy Whispers] - s/9063988375
-  [Electric Hum Buzz] - s/1193825113
-  [Flowing Water] - s/258063615
-  [Vending Machine Hum] - s/171186876
+  	[Rain] - s/2361576283
+  	[Static] - s/9063898142
+  	[Fallout Radio Static] - s/251407575
+  	[Rumble Ambient] - s/4532838042
+  	[Sewers Ambient] - s/1150086630
+  	[Phone Vibrate] - s/538449705
+  	[Creepy Whispers] - s/9063988375
+  	[Electric Hum Buzz] - s/1193825113
+  	[Flowing Water] - s/258063615
+  	[Vending Machine Hum] - s/171186876
    
 -------------------------------------------------------------------------
 
 Winterhaus
 	[Garage Door Open/Close] - s/9063992225
-  [Discombobulate] - s/386059930
-  [Glass Break] - s/516789356
-  [Break] - s/132758217
-  [Ghost Scream] - s/297569488
-  [Waterfall] - s/9083603515
-  [Waterfall Ambience] - s/9064189223
-  [Fire Ambience] - s/9063854288
+  	[Discombobulate] - s/386059930
+  	[Glass Break] - s/516789356
+  	[Break] - s/132758217
+  	[Ghost Scream] - s/297569488
+  	[Waterfall] - s/9083603515
+  	[Waterfall Ambience] - s/9064189223
+  	[Fire Ambience] - s/9063854288
 
 -------------------------------------------------------------------------
+
+[Throw] - s/498802753
+[DNAScan] - s/210649815
+[Ammo] - s/231256352
+[ButtonClick] - s/204850240
+[Zoom] - s/190623951
+[ButtonClickRelease] - s/204850260
+[TeleInit] - s/279790143
+[TeleMark] - s/279790166
+[TraitorNode] - s/920065063
+[Elimination] - s/6848136133
+[NyanFire] - s/9065115907
+[NyanIdle] - s/9065119039
+[Round1] - s/929322659
+[Round2] - s/929322763
+[ExplosionRinging] - s/262185813
+[BinocularsZoom] - s/677000734
+[BinocularsScan] - s/677000788
+[Visualizer] - s/939194938
 
 [doorstop1] - s/915347906
 [doormove3] - s/915347959
 [Scanning] - s/915348076
 [Scan Result] - s/915348006
+
+[C4 Explode] - s/252142019
+
+[Shatter 1] - s/1263182840
+[Shatter 2] - s/1263182928
+[Shatter 3] - s/1263183031
+
+[Attack1] - s/5132351156
+[Attack2] - s/5132351320
+[Bite] - s/5132350804
+[Idle1] - s/5132350625
+[Idle2] - s/5132350475
+[Idle3] - s/5132350268
+
+[FloweyDeath] - s/1032831971
+[Helicopter] - s/9064095627
+[VineLaunch2] - s/359195087
+[VineTarget] - s/358949734
+[VineEnd] - s/359198715
+[Intro] - s/1032618465
+[Laugh] - s/331661129
+[ChargeLaser] - s/510436934
+[FireLaser] - s/510436980
+[SeedEyeS] - s/1031675712
+[SeedCircleS] - s/1032689061
+[Hurt] - s/1032797897
+[Explosion] - s/1032797510
+[Bombs] - s/1033176186
+[FlamesS] - s/275198803
+[FlamesE] - s/275198853
+[FlameStart] - s/1033330389
+[FlameEnd] - s/1033330309
+
+[Laser] - s/275518247
+[BeesS] - s/275494875
+[Buzz] - s/9064135941
+[Meow] - s/275511433
